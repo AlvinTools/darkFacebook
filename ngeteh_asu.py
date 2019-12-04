@@ -36,8 +36,8 @@ def tik():
 
 back = 0
 threads = []
-berhasil = []
-cekpoint = []
+Alhamdulillah:) = []
+mampus:v = []
 gagal = []
 idteman = []
 idfromteman = []
